@@ -2,7 +2,7 @@
 
 This is a simple Hello World program to test if my development kit such as github ,git and vs code is working so I can finally work on my projects
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/3cScZTIzdGA)
 
 # Development Environment
 
